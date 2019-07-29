@@ -1,0 +1,200 @@
+body html {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+li {
+  color: black;
+}
+
+
+
+.site-header {
+  text-align: center;
+  font-family: 'Montserrat'
+}
+
+.mainhh-content {
+  text-align: left;
+  width: 10%;
+}
+
+.content {
+  margin-bottom: 10%;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: black;
+}
+
+.woofh {
+  height: 40%;
+  width: 40%;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  padding: 2% 0;
+  margin: 0;
+  text-align: center;
+  background-color: #ef4b4b;
+
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  color: #212529;
+}
+
+.nav-item {
+  padding: 0 18px;
+  color: #212529;
+
+}
+.collapse .navbar-collapse{
+  margin-right: 20%;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', ;
+  color: #212529;
+
+}
+
+.navbar-dark .navbar-brand {
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+  color: #212529;
+  width: 50%;
+}
+
+/* Title Part */
+.logo {
+  width: 20%;
+  transform: translateY(-10px);
+  margin-bottom: 2%;
+  padding: 0;
+}
+
+/* Features */
+#info {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+}
+
+.field {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  margin: 0;
+}
+
+.field1 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  margin: 0;
+}
+
+legend {
+  margin: 0 10%;
+  text-align: center;
+  width: 50%;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 0;
+  font-size: 3.5rem;
+  text-align: center;
+  margin: 2%;
+}
+
+p {
+  color: #212529;
+  font-family: 'Montserrat'
+}
+
+#listbody {
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+.woofp {
+  width: 15%;
+  margin: 10px 10px;
+}
+
+.table {
+  border-color: black;
+}
+
+th {
+  text-align: center;
+}
+
+a {
+  font-weight: bold;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  color: #212529;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+#footer {
+  background-color: #fdda16;
+  bottom: 0;
+}
+
+.foot {
+  margin: 0;
+
+}
+
+.p-2 {
+  font-weight: bold;
+  font-family: 'Montserrat';
+  text-align: center;
+  margin: 0;
+}
+
+.form-control{
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  font-weight: bold;
+  font-family: 'Montserrat';
+  color: #212529;
+  display: block;
+}
+
+.custom-select{
+width: 50%;
+margin-left: 25%inherit;
+text-align: center;
+font-weight: bold;
+font-family: 'Montserrat';
+color: #212529;
+
+}
